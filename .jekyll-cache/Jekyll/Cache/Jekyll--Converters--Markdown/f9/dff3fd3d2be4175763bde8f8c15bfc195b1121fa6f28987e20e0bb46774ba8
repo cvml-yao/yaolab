@@ -1,4 +1,4 @@
-I"|'<h1 id="group-members">Group Members</h1>
+I"V)<h1 id="group-members">Group Members</h1>
 
 <p><strong>We are  looking for new PhD students, Postdocs, and Master students to join the team</strong> <a href="http://localhost:4000/vacancies">(see openings)</a> <strong>!</strong></p>
 
@@ -7,6 +7,27 @@
 <h2 id="staff">Staff</h2>
 
 <div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/Jacky.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Anujraaj Goyal “AG”</h4>
+    <p><i>Research Assistant, started Sep 2019<br />email: <a href="mailto:anujraajg@gmail.com">anujraajg@gmail.com</a></i></p>
+    <ul style="overflow: hidden">
+
+  
+  <li> B.S. Indian Institute of Information Technology, Allahabad </li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
 
   <div class="col-sm-6 clearfix">
     <p><img src="http://localhost:4000/images/teampic/Milan.jpg" class="img-responsive" width="25%" style="float: left" /></p>
@@ -33,6 +54,10 @@
   </ul>
   </div>
 
+</div>
+
+<div class="row">
+
   <div class="col-sm-6 clearfix">
     <p><img src="http://localhost:4000/images/teampic/Jacky.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Jianfeng (Jacky) Ge</h4>
@@ -56,10 +81,6 @@
   </ul>
   </div>
 
-</div>
-
-<div class="row">
-
   <div class="col-sm-6 clearfix">
     <p><img src="http://localhost:4000/images/teampic/Koen.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Koen M Bastiaans</h4>
@@ -81,6 +102,10 @@
   </ul>
   </div>
 
+</div>
+
+<div class="row">
+
   <div class="col-sm-6 clearfix">
     <p><img src="http://localhost:4000/images/teampic/Maarten.png" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Maarten Leeuwenhoek</h4>
@@ -101,10 +126,6 @@
 
   </ul>
   </div>
-
-</div>
-
-<div class="row">
 
   <div class="col-sm-6 clearfix">
     <p><img src="http://localhost:4000/images/teampic/Damianos.jpg" class="img-responsive" width="25%" style="float: left" /></p>
@@ -128,6 +149,10 @@
   </ul>
   </div>
 
+</div>
+
+<div class="row">
+
   <div class="col-sm-6 clearfix">
     <p><img src="http://localhost:4000/images/teampic/website_pic_willem.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Willem Tromp</h4>
@@ -148,10 +173,6 @@
 
   </ul>
   </div>
-
-</div>
-
-<div class="row">
 
   <div class="col-sm-6 clearfix">
     <p><img src="http://localhost:4000/images/teampic/tjeruk.jpg" class="img-responsive" width="25%" style="float: left" /></p>
@@ -175,6 +196,10 @@
   </ul>
   </div>
 
+</div>
+
+<div class="row">
+
   <div class="col-sm-6 clearfix">
     <p><img src="http://localhost:4000/images/teampic/Photo Vincent.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Vincent Stalman</h4>
@@ -195,10 +220,6 @@
 
   </ul>
   </div>
-
-</div>
-
-<div class="row">
 
   <div class="col-sm-6 clearfix">
     <p><img src="http://localhost:4000/images/teampic/DSC_1032.JPG" class="img-responsive" width="25%" style="float: left" /></p>
@@ -222,6 +243,10 @@
   </ul>
   </div>
 
+</div>
+
+<div class="row">
+
   <div class="col-sm-6 clearfix">
     <p><img src="http://localhost:4000/images/teampic/Freek.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Freek Groenewoud</h4>
@@ -243,10 +268,6 @@
 
   </ul>
   </div>
-
-</div>
-
-<div class="row">
 
   <div class="col-sm-6 clearfix">
     <p><img src="http://localhost:4000/images/teampic/rock.jpg" class="img-responsive" width="25%" style="float: left" /></p>
