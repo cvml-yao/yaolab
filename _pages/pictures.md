@@ -6,7 +6,7 @@ permalink: /pictures/
 ---
 
 # Pictures
-Jump to: [Singapore](#singapore), [Awesome_Place1](#ethz), [Awesome_Place2](#cornell)
+Jump to: [Singapore](#singapore), [Awesome_Place1](#AP1), [Awesome_Place2](#AP2)
 
 
 ## Singapore
@@ -59,13 +59,13 @@ First advertisement.
 </figure>
 
 
-## Awsome Place 1
+## AP1
 From the [group of X1](https://www.comp.nus.edu.sg/).
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageETH_red.jpg" width="60%">
 </figure>
 
-## Awsome Place 2
+## AP2
 From the [group of X2](https://www.comp.nus.edu.sg/).
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageCornell_red.jpg" width="60%">
