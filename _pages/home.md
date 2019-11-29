@@ -61,7 +61,7 @@ We are a dynamic research group at the [National University of Singapore](https:
 
 To this end, we develop novel A tools to visualize the relevant B. We want to be able to build the perfect C (see [Research](research)).
 
-We are located at National University of Singapore, the birthplace of A,B,C,D and others (see e.g. [the wall of signatures from K lecturers](https://www.comp.nus.edu.sg/)). We exchange ideas and work with our neighbors from [Blah1](https://www.comp.nus.edu.sg/), as well as with the colleagues from our [Z](https://www.comp.nus.edu.sg/).
+We are located at National University of Singapore, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sodales vitae dolor sed pretium. In nec malesuada risus. Aliquam vitae magna eu risus vulputate blandit sed et augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit. We exchange ideas and work with our neighbors from [Blah1](https://www.comp.nus.edu.sg/), as well as with the colleagues from our [Z](https://www.comp.nus.edu.sg/).
 
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
