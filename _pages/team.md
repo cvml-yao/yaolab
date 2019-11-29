@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Team"
+title: "Yao Lab - Team"
 layout: gridlay
-excerpt: "Allan Lab: Team members"
+excerpt: "Yao Lab: Team members"
 sitemap: false
 permalink: /team/
 ---
@@ -167,14 +167,14 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 ## Former visitors, BSc/ MSc students
 <div class="row">
-
+<!-- 
 <div class="col-sm-4 clearfix">
 <h4>Visitors</h4>
 {% for member in site.data.alumni_visitors %}
 {{ member.name }}
 {% endfor %}
 </div>
-
+ -->
 <div class="col-sm-4 clearfix">
 <h4>Master students</h4>
 {% for member in site.data.alumni_msc %}
@@ -193,4 +193,4 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 
 ## Administrative Support
-<a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.
+<a href="mailto:abc@xyz.com">Awesome Person1</a> is helping us (and other groups) with administration.

@@ -1,5 +1,5 @@
 ---
-title: "Allan Lab - AOA"
+title: "Yao Lab - AOA"
 layout: textlay
 excerpt: "AOA"
 sitemap: false
@@ -8,7 +8,7 @@ permalink: /aoa.html
 
 # Calendar
 
-Every Tuesday at 9:30 in HL124.
+Every Wednesday at 4:30 in COM2.
 
 05.09.2017 Aarts
 

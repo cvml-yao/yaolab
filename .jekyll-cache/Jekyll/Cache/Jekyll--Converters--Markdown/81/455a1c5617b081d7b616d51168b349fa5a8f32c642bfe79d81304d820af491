@@ -1,0 +1,197 @@
+I"™<h1 id="group-members">Group Members</h1>
+
+<p><strong>We are  looking for new PhD students, Postdocs, and Master students to join the team</strong> <a href="http://localhost:4000/vacancies">(see openings)</a> <strong>!</strong></p>
+
+<p>Jump to <a href="#staff">staff</a>, <a href="#master-and-bachelor-students">master and bachelor students</a>, <a href="#alumni">alumni</a>, <a href="#administrative-support">administrative support</a>, <a href="#lab-visitors">lab visitors</a>.</p>
+
+<h2 id="staff">Staff</h2>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/Jacky.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>John Doe</h4>
+    <p><i>Research Assistant, started Sep 2019<br />email: <a href="mailto:abc@xyz.com">abc@xyz.com</a></i></p>
+    <ul style="overflow: hidden">
+
+  
+  <li> B.S. Indian Institute of Information Technology, Allahabad </li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+</div>
+
+<h2 id="master-and-bachelor-students">Master and Bachelor Students</h2>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <h4>John Doe</h4>
+    <p><i>Master student<br />email: <a href="mailto:abc@xyz.com">abc@xyz.com</a></i></p>
+    <ul style="overflow: hidden">
+
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <h4>John Doe</h4>
+    <p><i>Master student<br />email: <a href="mailto:abc@xyz.com">abc@xyz.com</a></i></p>
+    <ul style="overflow: hidden">
+
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <h4>John Doe</h4>
+    <p><i>Master student<br />email: <a href="mailto:abc@xyz.com">abc@xyz.com</a></i></p>
+    <ul style="overflow: hidden">
+
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <h4>John Doe</h4>
+    <p><i>Master student<br />email: <a href="mailto:abc@xyz.com">abc@xyz.com</a></i></p>
+    <ul style="overflow: hidden">
+
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+</div>
+
+<h2 id="alumni">Alumni</h2>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/verdoes.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>John Doe</h4>
+    <p><i>In the Yao Lab 2015 - 2018, now X at the Y <br /> Role: Work Description</i></p>
+    <ul style="overflow: hidden">
+
+  </ul>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/verdoes.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>John Doe</h4>
+    <p><i>In the Yao Lab 2015 - 2018, now X at the Y <br /> Role: Work Description</i></p>
+    <ul style="overflow: hidden">
+
+  </ul>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/verdoes.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>John Doe</h4>
+    <p><i>In the Yao Lab 2015 - 2018, now X at the Y <br /> Role: Work Description</i></p>
+    <ul style="overflow: hidden">
+
+  </ul>
+  </div>
+
+</div>
+
+<h2 id="former-visitors-bsc-msc-students">Former visitors, BSc/ MSc students</h2>
+<div class="row">
+  <!-- 
+<div class="col-sm-4 clearfix">
+<h4>Visitors</h4>
+
+John Doe, Spring 2016
+
+John Doe, Spring 2016
+
+John Doe, Spring 2016
+
+John Doe, Spring 2016
+
+John Doe, Spring 2016
+
+</div>
+ -->
+  <div class="col-sm-4 clearfix">
+    <h4>Master students</h4>
+
+    <p>John Doe, Spring 2019</p>
+
+    <p>John Doe, Spring 2019</p>
+
+    <p>John Doe, Spring 2019</p>
+
+    <p>John Doe, Spring 2019</p>
+
+    <p>John Doe, Spring 2019</p>
+
+  </div>
+
+  <div class="col-sm-4 clearfix">
+    <h4>Bachelor Students</h4>
+
+    <p>John Doe, Spring 2019</p>
+
+    <p>John Doe, Spring 2019</p>
+
+    <p>John Doe, Spring 2019</p>
+
+    <p>John Doe, Spring 2019</p>
+
+    <p>John Doe, Spring 2019</p>
+
+  </div>
+
+</div>
+
+<h2 id="administrative-support">Administrative Support</h2>
+<p><a href="mailto:abc@xyz.com">Awesome Person1</a> is helping us (and other groups) with administration.</p>
+:ET

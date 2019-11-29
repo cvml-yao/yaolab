@@ -1,15 +1,15 @@
 ---
-title: "Allan Lab - Pictures"
+title: "Yao Lab - Pictures"
 layout: piclay
-excerpt: "Allan Lab -- Pictures"
+excerpt: "Yao Lab -- Pictures"
 permalink: /pictures/
 ---
 
 # Pictures
-Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st-andrews)
+Jump to: [Singapore](#singapore), [Awesome_Place1](#ethz), [Awesome_Place2](#cornell)
 
 
-## Leiden
+## Singapore
 
 #### Timelapse of our STM assembling [(see LION news item)](https://www.physics.leidenuniv.nl/index.php?id=11573&news=867&type=lion&ln=EN):
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3iKvUMv1h5A" frameborder="0" allowfullscreen></iframe>
@@ -59,20 +59,21 @@ First advertisement.
 </figure>
 
 
-## ETHZ
-From the [group of Andreas Wallraff](http://www.qudev.ethz.ch/).
+## Awsome Place 1
+From the [group of X1](https://www.comp.nus.edu.sg/).
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageETH_red.jpg" width="60%">
 </figure>
 
-## Cornell
-From the [group of Seamus JC Davis](http://davisgroup.lassp.cornell.edu).
+## Awsome Place 2
+From the [group of X2](https://www.comp.nus.edu.sg/).
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageCornell_red.jpg" width="60%">
 </figure>
 
-## St Andrews
+<!-- ## St Andrews
 From the [group of Felix Baumberger](http://dqmp.unige.ch/baumberger/) (now at University of Geneva).
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageSTA_red.jpg" width="60%">
 </figure>
+ -->
