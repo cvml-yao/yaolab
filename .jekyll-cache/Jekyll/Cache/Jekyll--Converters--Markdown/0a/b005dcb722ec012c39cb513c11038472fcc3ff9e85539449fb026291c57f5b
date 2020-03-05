@@ -1,0 +1,45 @@
+I"F<h1 id="publications">Publications</h1>
+
+<h2 id="highlights">Highlights</h2>
+
+<p>(For a full list see <a href="#full-list">below</a> or go to <a href="https://scholar.google.com/citations?user=-LJCZMMAAAAJ&amp;hl=en">Google Scholar</a>, <!-- [ResearcherID](https://www.researcherid.com/rid/D-7763-2012) -->)</p>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Super cool work 1</pubtit>
+      <p><img src="http://localhost:4000/yaolab/images/pubpic/STS_news.png" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>The description of work here</p>
+      <p><em>Author1, auhtor2, author3</em></p>
+      <p><strong><a href="https://www.nature.com/articles/s41586-019-1408-8">CVPR</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Super cool work 2</pubtit>
+      <p><img src="http://localhost:4000/yaolab/images/pubpic/STS_news.png" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>The description of work here</p>
+      <p><em>Author1, auhtor2, author3</em></p>
+      <p><strong><a href="">CVPR</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+</div>
+
+<p>   </p>
+
+<h2 id="full-list">Full List</h2>
+
+<p>Super cool work 1 <br />
+  <em>Author1, auhtor2, author3 </em><br /><a href="https://www.nature.com/articles/s41586-019-1408-8">CVPR</a></p>
+
+<p>Super cool work 2 <br />
+  <em>Author1, auhtor2, author3 </em><br /><a href="">CVPR</a></p>
+
+:ET

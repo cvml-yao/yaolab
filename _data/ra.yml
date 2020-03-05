@@ -1,0 +1,45 @@
+#- name:
+#  photo: rock.jpg
+#  info:
+#  email:
+#  number_educ:
+#  education1:
+#  education2:
+#  education3:
+#  education4:
+- name: Shicheng Chen
+  photo: shichen.jpg
+  info: Research Assistant, started Sep 2019
+  email: coder.chen.shi.cheng@gmail.com
+  number_educ: 1
+  education1: BS Tianjin University China
+  
+- name: Anujraaj Goyal
+  photo: rock.jpg
+  info: Research Assistant, started Oct 2019
+  email: anujraajg@gmail.com
+  number_educ: 1
+  education1: BS-MS Indian Institute of Information Technology, Allahabad
+
+
+
+# - name: John Doe
+#   photo: rock.jpg
+#   info: Master student
+#   email: abc@xyz.com
+#   number_educ: 0
+#   education1:
+
+# - name: John Doe
+#   photo: rock.jpg
+#   info: Master student
+#   email: abc@xyz.com
+#   number_educ: 0
+#   education1:
+
+# - name: John Doe
+#   photo: rock.jpg
+#   info: Master student
+#   email: abc@xyz.com
+#   number_educ: 0
+#   education1:

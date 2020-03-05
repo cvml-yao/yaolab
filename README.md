@@ -1,4 +1,4 @@
-# Yao Lab Website
+# CVML Lab Website
 
 This is the website of our academic research group at NUS.
 
@@ -7,5 +7,5 @@ This website is powered by Jekyll and some Bootstrap, Bootwatch. We tried to mak
 Go to *aboutwebsite.md*  to learn how to copy and modidy this page for your purpose. 
 
 
-Copyright Yao Lab. Code released under the MIT License.
+Copyright CVML Lab. Code released under the MIT License.
 

@@ -1,0 +1,39 @@
+#- name:
+#  photo: rock.jpg
+#  info:
+#  email:
+#  number_educ:
+#  education1:
+#  education2:
+#  education3:
+#  education4:
+
+- name: Abhinav Rai
+  photo: abhinav.jpg
+  info: MComp student, started Aug 2019
+  email: e0403959@u.nus.edu
+  number_educ: 3
+  education1: Previously at Hi-Tech Robotics
+  education2: BS Jamia Millia Islamia University Delhi
+  education3: Winner of Smart India Hackathon 2017
+
+- name: Kai Xu
+  photo: kai.jpeg
+  info: MComp student, started Aug 2019
+  email: kai422@comp.nus.edu.sg
+  number_educ: 1
+  education1: Interested in Video Understanding, Action Recognition, Compressed Video Analysis
+
+# - name: John Doe
+#   photo: rock.jpg
+#   info: Master student
+#   email: abc@xyz.com
+#   number_educ: 0
+#   education1:
+
+# - name: John Doe
+#   photo: rock.jpg
+#   info: Master student
+#   email: abc@xyz.com
+#   number_educ: 0
+#   education1:

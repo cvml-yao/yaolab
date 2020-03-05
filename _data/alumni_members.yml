@@ -1,35 +1,35 @@
-- name: John Doe
-  photo: verdoes.jpg
-  duration: In the Yao Lab 2015 - 2018, now X at the Y
-  info: Work Description
+- name: Soumyadip Ghosh
+  photo: rock.jpg
+  duration: In the CVML Lab Oct 2018 - Feb 2020, now Software Engineer at the Apple
+  info: Research Assistant
   email: abc@xyz.com
   number_educ: 3
-  education1: University of California, Berkeley
-  education2: Stanford University
-  education3: MIT
+  education1: 
+  education2:
+  education3: 
   education4:
 
-- name: John Doe
-  photo: verdoes.jpg
-  duration: In the Yao Lab 2015 - 2018, now X at the Y
-  info: Work Description
-  email: abc@xyz.com
-  number_educ: 3
-  education1: University of California, Berkeley
-  education2: Stanford University
-  education3: MIT
-  education4:
+# - name: John Doe
+#   photo: verdoes.jpg
+#   duration: In the Yao Lab 2015 - 2018, now X at the Y
+#   info: Work Description
+#   email: abc@xyz.com
+#   number_educ: 3
+#   education1: University of California, Berkeley
+#   education2: Stanford University
+#   education3: MIT
+#   education4:
 
-- name: John Doe
-  photo: verdoes.jpg
-  duration: In the Yao Lab 2015 - 2018, now X at the Y
-  info: Work Description
-  email: abc@xyz.com
-  number_educ: 3
-  education1: University of California, Berkeley
-  education2: Stanford University
-  education3: MIT
-  education4:
+# - name: John Doe
+#   photo: verdoes.jpg
+#   duration: In the Yao Lab 2015 - 2018, now X at the Y
+#   info: Work Description
+#   email: abc@xyz.com
+#   number_educ: 3
+#   education1: University of California, Berkeley
+#   education2: Stanford University
+#   education3: MIT
+#   education4:
 
 # - name: Irene Battisti
 #   photo: irene.jpg

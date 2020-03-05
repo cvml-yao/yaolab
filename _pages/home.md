@@ -1,12 +1,12 @@
 ---
-title: "Yao Lab - Home"
+title: "CVML Lab - Home"
 layout: homelay
-excerpt: "Yao Lab at National University of Singapore."
+excerpt: "CVML Lab at National University of Singapore."
 sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [National University of Singapore](https://www.comp.nus.edu.sg/). Our aim is to explore and understand [X](http://google.com), including Y, Z, and W.
+We are a dynamic research group at the [National University of Singapore](https://www.comp.nus.edu.sg/). Our aim is to develop algorithms for automated interpretation of images and video. We work on topics ranging from segmentation, pose estimation, to video understanding.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
@@ -61,7 +61,9 @@ We are a dynamic research group at the [National University of Singapore](https:
 
 To this end, we develop novel A tools to visualize the relevant B. We want to be able to build the perfect C (see [Research](research)).
 
-We are located at National University of Singapore, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sodales vitae dolor sed pretium. In nec malesuada risus. Aliquam vitae magna eu risus vulputate blandit sed et augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit. We exchange ideas and work with our neighbors from [Blah1](https://www.comp.nus.edu.sg/), as well as with the colleagues from our [Z](https://www.comp.nus.edu.sg/).
+We are located at #06-18, AS3, NUS. Please feel free to drop by!
+
+<!-- National University of Singapore, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sodales vitae dolor sed pretium. In nec malesuada risus. Aliquam vitae magna eu risus vulputate blandit sed et augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit. We exchange ideas and work with our neighbors from [Blah1](https://www.comp.nus.edu.sg/), as well as with the colleagues from our [Z](https://www.comp.nus.edu.sg/). -->
 
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
@@ -70,7 +72,7 @@ We are grateful for funding from Blah3, [Blah](https://www.comp.nus.edu.sg/) ([B
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_nus.png" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_nus.png" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_nus.png" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_nus.png" style="width: 110px">
+  <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_nus.png" style="width: 110px"> -->
+  <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_nus.png" style="width: 110px"> -->
+  <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_nus.png" style="width: 110px"> -->
 </figure>
