@@ -1,4 +1,4 @@
-- title: "Super cool work 1"
+- title: "Super wcool work 1"
   image: STS_news.png
   description: The description of work here
   authors: Author1, auhtor2, author3
@@ -16,7 +16,32 @@
     url: 
     display:  CVPR
   highlight: 1
-  news2:
+  news2: red
+
+- title: "Zero-Shot Anticipation for Instructional Activities"
+  image: STS_news.png
+  description: The description of work here
+  authors: F. Sener and A. Yao.
+  link:
+    url: 
+    display: International Conference on Computer Vision (ICCV) 2019.
+  # news2: red
+
+- title: "Aligning Latent Spaces for 3D Hand Pose Estimation"
+  image: STS_news.png
+  description: The description of work here
+  authors: L. Yang, S. Li, D. Lee, and A. Yao
+  link:
+    url: 
+    display: International Conference on Computer Vision (ICCV) 2019.
+
+- title: "Localized interactive instance segmentation"
+  image: STS_news.png
+  description: The description of work here
+  authors: S. Majumder and A. Yao
+  link:
+    url: 
+    display: German Conference on Pattern Recognition (GCPR) 2019.
 
 # - title: "Super cool work 3"
 #   image: STS_news.png

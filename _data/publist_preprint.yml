@@ -1,0 +1,9 @@
+- title: "Super cool work 1"
+  image: STS_news.png
+  description: The description of work here
+  authors: Author1, auhtor2, author3
+  link:
+    url: https://www.nature.com/articles/s41586-019-1408-8
+    display:  CVPR
+  highlight: 1
+  news2: 

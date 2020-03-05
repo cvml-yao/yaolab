@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Yao Lab at National University of Singapore"
+excerpt: "CVML Lab at National University of Singapore"
 sitemap: false
 permalink: /allnews.html
 ---

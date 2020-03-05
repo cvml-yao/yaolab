@@ -59,7 +59,7 @@ We are a dynamic research group at the [National University of Singapore](https:
 
 
 
-To this end, we develop novel A tools to visualize the relevant B. We want to be able to build the perfect C (see [Research](research)).
+To this end, we develop novel A tools to visualize the relevant B. We want to be able to build the perfect C (see [Publications](publications)).
 
 We are located at #06-18, AS3, NUS. Please feel free to drop by!
 

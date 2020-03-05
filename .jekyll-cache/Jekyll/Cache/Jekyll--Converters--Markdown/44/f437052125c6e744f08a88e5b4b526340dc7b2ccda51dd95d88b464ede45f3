@@ -1,0 +1,48 @@
+I"Q<h1 id="pictures">Pictures</h1>
+<p>Jump to: <a href="#demo">Project Demos</a>, <a href="#GP">Group Photos</a></p>
+
+<!-- ## Project Demos -->
+
+<!-- #### Timelapse of our STM assembling [(see LION news item)](https://www.physics.leidenuniv.nl/index.php?id=11573&news=867&type=lion&ln=EN): -->
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/3iKvUMv1h5A" frameborder="0" allowfullscreen></iframe> -->
+
+<!-- #### Gallery -->
+<!-- (Right-click *'view image'* to see a larger image.) -->
+<!-- 
+
+
+
+
+
+
+
+ -->
+
+<!-- <p> &nbsp; </p> -->
+
+<!-- First advertisement.
+<figure>
+<img src="http://localhost:4000/yaolab/images/picpic/WebpageLeiden_red.jpg" width="60%" >
+</figure> -->
+
+<h3 id="project-demos">Project Demos</h3>
+<p>Hand Pose Estimation System Demo</p>
+<figure>
+  <p><img src="http://localhost:4000/yaolab/images/picpic/hpd1.jpeg" width="60%" />
+<img src="http://localhost:4000/yaolab/images/picpic/hpd2.jpeg" width="60%" /></p>
+
+</figure>
+
+<h3 id="group-photos">Group Photos</h3>
+<p>Coffee Meetup</p>
+<figure>
+  <p><img src="http://localhost:4000/yaolab/images/picpic/blah.jpg" width="60%" /></p>
+</figure>
+
+<!-- ## St Andrews
+From the [group of Felix Baumberger](http://dqmp.unige.ch/baumberger/) (now at University of Geneva).
+<figure>
+<img src="http://localhost:4000/yaolab/images/picpic/WebpageSTA_red.jpg" width="60%">
+</figure>
+ -->
+:ET

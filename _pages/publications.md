@@ -14,7 +14,7 @@ permalink: /publications/
 (For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?user=-LJCZMMAAAAJ&hl=en), <!-- [ResearcherID](https://www.researcherid.com/rid/D-7763-2012) -->)
 
 {% assign number_printed = 0 %}
-{% for publi in site.data.publist %}
+{% for publi in site.data.publist_conf %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if publi.highlight == 1 %}
@@ -54,10 +54,39 @@ permalink: /publications/
 
 ## Full List
 
-{% for publi in site.data.publist %}
+#### Preprints & Submissions
+
+{% for publi in site.data.publist_preprint %}
 
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% endfor %}
 
+#### Journal Articles
+
+{% for publi in site.data.publist_journal %}
+
+  {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+
+{% endfor %}
+ 
+#### Refereed Conference Proceedings
+
+{% for publi in site.data.publist_conf %}
+
+  {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+
+{% endfor %}
+
+#### Refereed Workshop Proceedings
+
+{% for publi in site.data.publist_workshop %}
+
+  {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+
+{% endfor %}
+ 
