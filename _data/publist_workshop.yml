@@ -1,0 +1,29 @@
+- title: "Super wcool work 1"
+  image: STS_news.png
+  description: The description of work here
+  authors: Author1, auhtor2, author3
+  link:
+    url: https://www.nature.com/articles/s41586-019-1408-8
+    display:  CVPR
+  highlight: 1
+  news2:
+
+- title: “Hough forest-based facial expression recognition from video sequences”
+  image: STS_news.png
+  description: 
+  authors: G. Fanelli, A. Yao, P.L. Noel, J. Gall and L. Van Gool
+  link:
+    url: https://www.nature.com/articles/s41586-019-1408-8
+    display:  International Workshop on Sign, Gesture and Activity (SGA) at ECCV, 2010
+  highlight: 1
+  news2:
+
+- title: “Variations of a Hough-voting action recognition system”
+  image: STS_news.png
+  description:  
+  authors: D. Waltisberg, A. Yao, J. Gall and L. Van Gool
+  link:
+    url: https://www.nature.com/articles/s41586-019-1408-8
+    display:  Proceedings of the International Conference on Pattern Recognition (ICPR) Contests, 2010
+  highlight: 1
+  news2:

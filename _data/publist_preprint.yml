@@ -1,9 +1,20 @@
-- title: "Super cool work 1"
+
+- title: "Dual Grid Networks"
   image: STS_news.png
   description: The description of work here
-  authors: Author1, auhtor2, author3
+  authors: Chengde Wan, Thomas Probst, Luc Van Gool, Angela Yao
+  link:
+    url: https://arxiv.org/abs/1907.10695
+    display: "arXiv preprint arXiv:1907.10695, 2019"
+  highlight: 1
+  news2: 
+
+- title: “Fourier RNNs for sequence prediction and analysis”
+  image: STS_news.png
+  description: 
+  authors: M. Wolter and A. Yao
   link:
     url: https://www.nature.com/articles/s41586-019-1408-8
-    display:  CVPR
+    display: "arXiv preprint: 1812.05645, 2018"
   highlight: 1
   news2: 

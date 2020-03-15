@@ -1,0 +1,69 @@
+- title: “Deep morphological networks”
+  image: STS_news.png
+  description:  
+  authors: G. Franchi, A. Fehri, and A. Yao
+  link:
+    url: https://www.nature.com/articles/s41586-019-1408-8
+    display:  Pattern Recognition Letters, to appear, accepted 24.10.2019
+  highlight: 1
+  news2:
+
+- title: “A two-streamed network for estimating fine-scaled depth maps from single RGB images”
+  image: STS_news.png
+  description: 
+  authors: J. Li, C. Yuce, R. Klein and A. Yao
+  link:
+    url: https://www.nature.com/articles/s41586-019-1408-8
+    display:  "Computer Vision and Image Understanding (CVIU), 186: 25-36, 2019"
+  highlight: 1
+  news2:
+
+- title: “Efficient unsupervised tem- poral segmentation of motion data”
+  image: STS_news.png
+  description:  
+  authors: B. Krüger, A. Vögele, T. Willig, A. Yao, R. Klein and A. Weber
+  link:
+    url: https://www.nature.com/articles/s41586-019-1408-8
+    display:  IEEE Transactions on Multimedia (TMM), 19(4):797– 812, 2017
+  highlight: 1
+  news2:
+
+- title: “Superpixel optimization using higher-order energy”
+  image: STS_news.png
+  description: 
+  authors:  J. Peng, J. Shen, A. Yao and X. Li
+  link:
+    url: https://www.nature.com/articles/s41586-019-1408-8
+    display:  IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 26(5):917–927, 2016
+  highlight: 1
+  news2:
+
+- title: “Coupled action recognition and pose estimation from multiple views”
+  image: STS_news.png
+  description: 
+  authors:  A. Yao, J. Gall and L. Van Gool
+  link:
+    url: https://www.nature.com/articles/s41586-019-1408-8
+    display:  International Journal of Computer Vision (IJCV), 100(1):16–37, 2012
+  highlight: 1
+  news2:
+
+- title:  “Hough forests for object detec- tion, tracking, and action recognition”
+  image: STS_news.png
+  description:  
+  authors: J. Gall, A. Yao, N. Razavi, L. Van Gool and V. Lempitsky
+  link:
+    url: https://www.nature.com/articles/s41586-019-1408-8
+    display: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 33(11):2188 – 2202, 2011
+  highlight: 1
+  news2:
+
+- title: “Colour aids late but not early stages of rapid natural scene recognition”
+  image: STS_news.png
+  description:  
+  authors:   A.Y.J. Yao and W. Einhäuser
+  link:
+    url: https://www.nature.com/articles/s41586-019-1408-8
+    display:  Journal of Vision (JOV), 8(16):12, 1-13, 2008
+  highlight: 1
+  news2:

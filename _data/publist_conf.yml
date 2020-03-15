@@ -1,30 +1,10 @@
-- title: "Super wcool work 1"
-  image: STS_news.png
-  description: The description of work here
-  authors: Author1, auhtor2, author3
-  link:
-    url: https://www.nature.com/articles/s41586-019-1408-8
-    display:  CVPR
-  highlight: 1
-  news2:
-
-- title: "Super cool work 2"
-  image: STS_news.png
-  description: The description of work here
-  authors: Author1, auhtor2, author3
-  link:
-    url: 
-    display:  CVPR
-  highlight: 1
-  news2: red
-
 - title: "Zero-Shot Anticipation for Instructional Activities"
   image: STS_news.png
-  description: The description of work here
-  authors: F. Sener and A. Yao.
+  description: 
+  authors: F. Sener and A. Yao
   link:
     url: 
-    display: International Conference on Computer Vision (ICCV) 2019.
+    display: International Conference on Computer Vision (ICCV) 2019
   # news2: red
 
 - title: "Aligning Latent Spaces for 3D Hand Pose Estimation"
@@ -33,7 +13,7 @@
   authors: L. Yang, S. Li, D. Lee, and A. Yao
   link:
     url: 
-    display: International Conference on Computer Vision (ICCV) 2019.
+    display: International Conference on Computer Vision (ICCV) 2019
 
 - title: "Localized interactive instance segmentation"
   image: STS_news.png
@@ -41,7 +21,160 @@
   authors: S. Majumder and A. Yao
   link:
     url: 
-    display: German Conference on Pattern Recognition (GCPR) 2019.
+    display: German Conference on Pattern Recognition (GCPR) 2019
+
+- title: “Scale-aware multi-level guidance for interactive instance segmentation”
+  description: The description of work here
+  authors: S. Majumder and A. Ya
+  link:
+    url: 
+    display:  IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2019
+
+- title:  “Self-supervised 3D hand pose estimation through training by fitting”
+  image: STS_news.png
+  description: The description of work here
+  authors: C. Wan, T. Probst, L. Van Gool and A. Yao
+  link:
+    url: 
+    display: IEEE Conference on Computer Vision and Pattern Recog- nition (CVPR) 2019 (oral)
+
+- title:  “Disentangling latent hands for image synthesis and pose estima- tion”
+  image: STS_news.png
+  description: 
+  authors: L. Yang and A. Yao
+  link:
+    url: 
+    display: IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2019
+
+- title:  “Gated complex recurrent neural networks”,
+  image: STS_news.png
+  description: 
+  authors: M. Wolter and A. Yao.
+  link:
+    url: 
+    display:  Neural Information Processing Systems (NIPS) 2018
+
+- title:  “Learning style compatibility for furniture”
+  image: STS_news.png
+  description: 
+  authors: D. Aggarwal, E. Valiyev, F. Sener, and A. Yao
+  link:
+    url: 
+    display: German Conference on Pattern Recognition (GCPR) 2018
+
+- title:  “Supervised deep Kriging for single-image super- resolution”
+  image: STS_news.png
+  description: 
+  authors: G. Franchi, A. Yao and A. Kolb
+  link:
+    url: 
+    display:  German Conference on Pattern Recognition (GCPR) 2018 (oral)
+
+- title:  “Unsupervised discovery and segmentation of complex activities” 
+  image: STS_news.png
+  description: 
+  authors: F. Sener and A. Yao.
+  link:
+    url: 
+    display:  IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2018 (spotlight)
+
+- title: “Dense 3D regression for hand pose estima- tion”
+  image: STS_news.png
+  description: 
+  authors: C. Wan, T. Probst, L. Van Gool and A. Yao
+  link:
+    url: 
+    display: IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2018
+
+- title:  “A two-streamed network for estimating fine-scaled depth maps from single RGB images”
+  image: STS_news.png
+  description: 
+  authors: J. Li, R. Klein and A. Yao
+  link:
+    url: 
+    display: International Conference on Computer Vision (ICCV) 2017
+
+- title:  “Data-driven synthesis of hand grasps from 3D object models”
+  image: STS_news.png
+  description: 
+  authors: S. Majumder, H. Chen and A. Yao
+  link:
+    url: 
+    display: International Symposium on Vision, Modelling, and Visualization (VMV) 2017
+
+- title: “Crossing nets: Combining GANs and VAEs with a Shared Latent Space for Hand Pose Estimation”
+  image: STS_news.png
+  description: 
+  authors: C. Wan, T. Probst, L. Van Gool and A. Yao
+  link:
+    url: 
+    display:  IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2017 (spotlight)
+
+- title: “Hand pose estimation from local surface normals”
+  image: STS_news.png
+  description: 
+  authors: C. Wan, A. Yao and L. Van Gool
+  link:
+    url: 
+    display: European Conference on Computer Vision (ECCV) 2016
+
+- title: “Gesture recognition portfolios for personalization”
+  image: STS_news.png
+  description: 
+  authors: A. Yao, L. Van Gool and P. Kohli
+  link:
+    url: 
+    display: IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2014
+
+- title:  “Interactive object detection”
+  image: STS_news.png
+  description: 
+  authors: A. Yao, J. Gall, C. Leistner and L. Van Goo
+  link:
+    url: 
+    display:  IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2012
+
+- title:  “Learning probabilistic non-linear latent variable models for tracking complex activities”,
+  image: STS_news.png
+  description: 
+  authors: A. Yao, J. Gall, L. Van Gool and R. Urtasun
+  link:
+    url: 
+    display: Neural Information Processing Systems (NIPS) 2011
+
+- title:  “Does human action recognition benefit from pose estimation?”
+  image: STS_news.png
+  description: 
+  authors: A. Yao, J. Gall, G. Fanelli and L. Van Gool
+  link:
+    url: 
+    display:  British Machine Vision Conference (BMVC) 2011. 
+
+- title:  “2D action recognition serves 3D human pose estimation”
+  image: STS_news.png
+  description: 
+  authors: J. Gall, A. Yao and L. Van Gool
+  link:
+    url: 
+    display: European Conference on Computer Vision (ECCV) 2010
+
+- title:  “Tracking in broadcast sports”
+  image: STS_news.png
+  description: 
+  authors:  A. Yao, D. Uebersax, J. Gall and L. Van Gool
+  link:
+    url: 
+    display: German Conference for Pattern Recognition (GCPR) 2010
+
+- title:  “A Hough transform-based voting framework for action recognition”
+  image: STS_news.png
+  description: 
+  authors: A. Yao, J. Gall and L. Van Gool
+  link:
+    url: 
+    display:  IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2010
+
+
 
 # - title: "Super cool work 3"
 #   image: STS_news.png
