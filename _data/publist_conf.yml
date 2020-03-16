@@ -102,7 +102,7 @@
     url: 
     display: International Symposium on Vision, Modelling, and Visualization (VMV) 2017
 
-- title: “Crossing nets: Combining GANs and VAEs with a Shared Latent Space for Hand Pose Estimation”
+- title: 'Crossing nets: Combining GANs and VAEs with a Shared Latent Space for Hand Pose Estimation'
   image: STS_news.png
   description: 
   authors: C. Wan, T. Probst, L. Van Gool and A. Yao
