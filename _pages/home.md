@@ -6,8 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [National University of Singapore](https://www.comp.nus.edu.sg/). Our aim is to develop algorithms for automated interpretation of images and video. We work on topics ranging from segmentation, pose estimation, to video understanding.
-
+We are a research group at the [School of Computing](https://www.comp.nus.edu.sg/) at the National University of Singapore (link). We work on automated interpretation of images and video and work on topics such as sequence modelling, video understanding and deep learning.  Our [research](publications) is used in diverse applications such as segmentation, pose estimation, and activty recognition.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
@@ -56,19 +55,7 @@ We are a dynamic research group at the [National University of Singapore](https:
   </a>
 </div>
 
-
-
-
-To this end, we develop novel A tools to visualize the relevant B. We want to be able to build the perfect C (see [Publications](publications)).
-
-We are located at #06-18, AS3, NUS. Please feel free to drop by!
-
-<!-- National University of Singapore, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sodales vitae dolor sed pretium. In nec malesuada risus. Aliquam vitae magna eu risus vulputate blandit sed et augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit. We exchange ideas and work with our neighbors from [Blah1](https://www.comp.nus.edu.sg/), as well as with the colleagues from our [Z](https://www.comp.nus.edu.sg/). -->
-
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
-
-
-We are grateful for funding from Blah3, [Blah](https://www.comp.nus.edu.sg/) ([Blah4](https://www.comp.nus.edu.sg/) and the [Blah5](https://www.comp.nus.edu.sg/)), and from an [Blah6 grant](https://www.comp.nus.edu.sg/).
+ We are looking for passionate new PhD students, Postdocs, and Master students to join our team [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies)!
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_nus.png" style="width: 110px">
