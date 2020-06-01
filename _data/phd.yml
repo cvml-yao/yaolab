@@ -10,14 +10,14 @@
 
 - name: Dipika Singhania
   photo: rock.jpg
-  info: PhD Student, started Jan 2019
+  info: started Jan 2019
   email: abc@xyz.com
   number_educ: 0
   education1:
 
 - name: Ziwei Yu
   photo: ziwei.jpg
-  info: PhD Student, started Aug 2019
+  info: started Aug 2019
   email: yuziwei@u.nus.edu
   number_educ: 4
   education1: Interested in 3D hand pose estimation
@@ -27,7 +27,7 @@
 
 - name: Huiqi Mao
   photo: huiqi.jpg
-  info: PhD student, started Aug 2019
+  info: started Aug 2019
   email: e0431609@u.nus.edu
   number_educ: 4
   education1: Interested in Video Understanding
@@ -36,7 +36,12 @@
   education4: BS Nanyang Technological University
 
 - name: "This could be you !"
+  new_guy: 1
   photo: rock.jpg
-  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
   email: dcsyya@nus.edu.sg
   number_educ: 0
+
+
+ # **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+
+

@@ -26,10 +26,16 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br>email: <{{ member.email }}></i>
-  <ul style="overflow: hidden">
+  <h5>
+    <a href="mailto:{{ member.email }}"><span class="glyphicon glyphicon-envelope"></span></a> 
+    <a href="{{ member.google_scholar }}"><span class="glyphicon glyphicon-education"></span></a>
+    <a href="{{ member.webpage }}"><span class="glyphicon glyphicon-home"></span></a>
+  </h5>
 
-  {% if member.number_educ == 1 %}
+  <!-- <i>{{ member.info }}<br>email: {{ member.email }}</i> -->
+  <!-- <ul style="overflow: hidden"> -->
+
+<!--   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
   {% endif %}
 
@@ -57,9 +63,9 @@ permalink: /team/
   <li> {{ member.education3 }} </li>
   <li> {{ member.education4 }} </li>
   <li> {{ member.education5 }} </li>
-  {% endif %}
+  {% endif %} -->
 
-  </ul>
+  <!-- </ul> -->
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
@@ -77,23 +83,31 @@ permalink: /team/
 
 
 
-## Postdoc
+## Research Fellows
 {% assign number_printed = 0 %}
 {% for member in site.data.postdoc %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
 {% if even_odd == 0 %}
-<div class="row">
+<div class="row social-buttons">
 {% endif %}
 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br>email: <{{ member.email }}></i>
-  <ul style="overflow: hidden">
 
-  {% if member.number_educ == 1 %}
+  <h5>
+    <a href="mailto:{{ member.email }}"><span class="glyphicon glyphicon-envelope"></span></a> 
+    <a href="{{ member.google_scholar }}"><span class="glyphicon glyphicon-education"></span></a>
+    <a href="{{ member.webpage }}"><span class="glyphicon glyphicon-home"></span></a>
+<!--     <a href="#" target="_blank"><img class="socialicon social-fade" src="{{ site.url }}{{ site.baseurl }}/images/social/linkedin.svg"></a> -->
+  </h5>
+  <h6> <i>{{ member.info }} </i></h6>
+  <!-- <i>{{ member.info }}<br>email: <{{ member.email }}></i> -->
+  <!-- <ul style="overflow: hidden"> -->
+
+<!--   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
   {% endif %}
 
@@ -121,9 +135,9 @@ permalink: /team/
   <li> {{ member.education3 }} </li>
   <li> {{ member.education4 }} </li>
   <li> {{ member.education5 }} </li>
-  {% endif %}
+  {% endif %} -->
 
-  </ul>
+  <!-- </ul> -->
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
@@ -153,10 +167,20 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br>email: <{{ member.email }}></i>
-  <ul style="overflow: hidden">
+  <h5>
+    <a href="mailto:{{ member.email }}"><span class="glyphicon glyphicon-envelope"></span></a> 
+    <a href="{{ member.google_scholar }}"><span class="glyphicon glyphicon-education"></span></a>
+    <a href="{{ member.webpage }}"><span class="glyphicon glyphicon-home"></span></a>
+  </h5>
+  <h6> <i>{{ member.info }} </i></h6>
+  {% if member.new_guy == 1 %}
+  <h6><i>See [(openings)]({{ site.url }}{{ site.baseurl }}/vacancies) for more info</i></h6>
+  {% endif %}
+  <!-- <h4>{{ member.name }}</h4> -->
+  <!-- <i>{{ member.info }}<br>email: <{{ member.email }}></i> -->
+  <!-- <ul style="overflow: hidden"> -->
 
-  {% if member.number_educ == 1 %}
+<!--   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
   {% endif %}
 
@@ -176,9 +200,9 @@ permalink: /team/
   <li> {{ member.education2 }} </li>
   <li> {{ member.education3 }} </li>
   <li> {{ member.education4 }} </li>
-  {% endif %}
+  {% endif %} -->
 
-  </ul>
+  <!-- </ul> -->
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
@@ -207,10 +231,17 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br>email: <{{ member.email }}></i>
+  <h5>
+    <a href="mailto:{{ member.email }}"><span class="glyphicon glyphicon-envelope"></span></a> 
+    <a href="{{ member.google_scholar }}"><span class="glyphicon glyphicon-education"></span></a>
+    <a href="{{ member.webpage }}"><span class="glyphicon glyphicon-home"></span></a>
+  </h5>
+  <h6> <i>{{ member.info }} </i></h6>
+
+  <!-- <i>{{ member.info }}<br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
 
-  {% if member.number_educ == 1 %}
+  <!-- {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
   {% endif %}
 
@@ -230,7 +261,7 @@ permalink: /team/
   <li> {{ member.education2 }} </li>
   <li> {{ member.education3 }} </li>
   <li> {{ member.education4 }} </li>
-  {% endif %}
+  {% endif %} -->
 
   </ul>
 </div>
@@ -262,10 +293,16 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br>email: <{{ member.email }}></i>
-  <ul style="overflow: hidden">
+  <h5>
+    <a href="mailto:{{ member.email }}"><span class="glyphicon glyphicon-envelope"></span></a> 
+    <a href="{{ member.google_scholar }}"><span class="glyphicon glyphicon-education"></span></a>
+    <a href="{{ member.webpage }}"><span class="glyphicon glyphicon-home"></span></a>
+  </h5>
+  <h6> <i>{{ member.info }} </i></h6>
+  <!-- <i>{{ member.info }}<br>email: <{{ member.email }}></i> -->
+  <!-- <ul style="overflow: hidden"> -->
 
-  {% if member.number_educ == 1 %}
+<!--   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
   {% endif %}
 
@@ -285,9 +322,9 @@ permalink: /team/
   <li> {{ member.education2 }} </li>
   <li> {{ member.education3 }} </li>
   <li> {{ member.education4 }} </li>
-  {% endif %}
+  {% endif %} -->
 
-  </ul>
+  <!-- </ul> -->
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
@@ -316,10 +353,16 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br>email: <{{ member.email }}></i>
-  <ul style="overflow: hidden">
+  <h5>
+    <a href="mailto:{{ member.email }}"><span class="glyphicon glyphicon-envelope"></span></a> 
+    <a href="{{ member.google_scholar }}"><span class="glyphicon glyphicon-education"></span></a>
+    <a href="{{ member.webpage }}"><span class="glyphicon glyphicon-home"></span></a>
+  </h5>
+  <h6> <i>{{ member.info }} </i></h6>
+  <!-- <i>{{ member.info }}<br>email: <{{ member.email }}></i> -->
+  <!-- <ul style="overflow: hidden"> -->
 
-  {% if member.number_educ == 1 %}
+  <!-- {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
   {% endif %}
 
@@ -339,9 +382,9 @@ permalink: /team/
   <li> {{ member.education2 }} </li>
   <li> {{ member.education3 }} </li>
   <li> {{ member.education4 }} </li>
-  {% endif %}
+  {% endif %} -->
 
-  </ul>
+  <!-- </ul> -->
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
@@ -370,7 +413,13 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br>email: <{{ member.email }}></i>
+  <h5>
+    <a href="mailto:{{ member.email }}"><span class="glyphicon glyphicon-envelope"></span></a> 
+    <a href="{{ member.google_scholar }}"><span class="glyphicon glyphicon-education"></span></a>
+    <a href="{{ member.webpage }}"><span class="glyphicon glyphicon-home"></span></a>
+  </h5>
+  <h6> <i>{{ member.info }} </i></h6>
+<!--   <i>{{ member.info }}<br>email: <{{ member.email }}></i>
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -395,7 +444,7 @@ permalink: /team/
   <li> {{ member.education4 }} </li>
   {% endif %}
 
-  </ul>
+  </ul> -->
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
@@ -424,9 +473,9 @@ permalink: /team/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" /> -->
   <h4>{{ member.name }}</h4>
-  <i>{{ member.duration }} <br> Role: {{ member.info }}</i>
+  <i>{{ member.duration }} <br> {{ member.info }}</i>
   <ul style="overflow: hidden">
 
   </ul>
@@ -445,7 +494,7 @@ permalink: /team/
 </div>
 {% endif %}
 
-## Former visitors, BSc/ MSc students
+<!-- ## Former visitors, BSc/ MSc students
 <div class="row">
 
 <div class="col-sm-4 clearfix">
@@ -453,7 +502,7 @@ permalink: /team/
 {% for member in site.data.alumni_visitors %}
 {{ member.name }}
 {% endfor %}
-</div>
+</div> -->
 
 <!-- <div class="col-sm-4 clearfix">
 <h4>Master students</h4>
@@ -469,8 +518,8 @@ permalink: /team/
 {% endfor %}
 </div> -->
 
-</div>
+<!-- </div> -->
 
 
-## Administrative Support
-<a href="mailto:cheryl@nus.edu.sg">Cheryl Lee</a> is helping us (and other groups) with administration.
+<!-- ## Administrative Support -->
+<!-- <a href="mailto:cheryl@nus.edu.sg">Cheryl Lee</a> is helping us (and other groups) with administration. -->

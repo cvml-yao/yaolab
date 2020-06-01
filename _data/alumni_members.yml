@@ -1,13 +1,23 @@
 - name: Soumyadip Ghosh
   photo: rock.jpg
-  duration: In the CVML Lab Oct 2018 - Feb 2020, now Software Engineer at the Apple
-  info: Research Assistant
+  duration: Research Assistant (Oct 2018 - Feb 2020)
+  info: Now working at Apple, Singapore
   email: abc@xyz.com
   number_educ: 3
   education1: 
   education2:
   education3: 
   education4:
+
+- name: Rishabh Saraf, Summer 2020
+  photo: rock.jpg
+  duration: Summer Intern (May 2019 - July 2019)
+  info: Undergrad at IIT Dhanbad
+
+- name: Ansh Khurana, Summer 2020
+  photo: rock.jpg
+  duration: Summer Intern (May 2019 - July 2019)
+  info: Undergrad at IIT Bombay
 
 # - name: John Doe
 #   photo: verdoes.jpg
