@@ -1,5 +1,5 @@
 ---
-title: "Yao Lab - AOA"
+title: "CVML Lab - AOA"
 layout: textlay
 excerpt: "AOA"
 sitemap: false

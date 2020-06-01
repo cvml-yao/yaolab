@@ -1,7 +1,7 @@
 - title: “Deep morphological networks”
   image: STS_news.png
   description:  
-  authors: G. Franchi, A. Fehri, and A. Yao
+  authors: G. Franchi, A. Fehri and A. Yao
   link:
     url: https://www.nature.com/articles/s41586-019-1408-8
     display:  Pattern Recognition Letters, to appear, accepted 24.10.2019
@@ -48,7 +48,7 @@
   highlight: 1
   news2:
 
-- title:  “Hough forests for object detec- tion, tracking, and action recognition”
+- title:  “Hough forests for object detec- tion, tracking and action recognition”
   image: STS_news.png
   description:  
   authors: J. Gall, A. Yao, N. Razavi, L. Van Gool and V. Lempitsky

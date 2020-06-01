@@ -1,5 +1,5 @@
 ---
-title: "Yao Lab - Vacancies"
+title: "CVML Lab - Vacancies"
 layout: textlay
 excerpt: "Openings"
 sitemap: false

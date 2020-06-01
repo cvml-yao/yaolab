@@ -1,7 +1,7 @@
 ---
-title: "Yao Lab - Publications"
+title: "CVML Lab - Publications"
 layout: gridlay
-excerpt: "Yao Lab -- Publications."
+excerpt: "CVML Lab -- Publications."
 sitemap: false
 permalink: /publications/
 ---
@@ -9,9 +9,9 @@ permalink: /publications/
 
 # Publications
 
-## Highlights
+<!-- ## Highlights
 
-(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?user=-LJCZMMAAAAJ&hl=en), <!-- [ResearcherID](https://www.researcherid.com/rid/D-7763-2012) -->)
+(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?user=-LJCZMMAAAAJ&hl=en), [ResearcherID](https://www.researcherid.com/rid/D-7763-2012))
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist_conf %}
@@ -50,7 +50,7 @@ permalink: /publications/
 {% endif %}
 
 <p> &nbsp; </p>
-
+ -->
 
 ## Full List
 
